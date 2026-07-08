@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: Module 1
 slug: getting-started
 abstract: A guide to quickly setting up your site with this theme.
 ---

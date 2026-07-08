@@ -1,10 +1,11 @@
 ---
 slug: book
-title: Demo Book
-abstract: An example book for showcasing the Jekyll Chapterbook theme.
+title: AI from an Information Perspective
+abstract: This introductory AI course reframes AI through an information systems lens. It explores how challenges such as bias, data privacy, and consent are fundamentally information problems, and how advances in information and data continue to shape AI development.
+
 ---
 
-By Jason Grimes
+By Lois Wong and Sharesly Rodriguez
 
 Copyright &copy; {{"now" | date: "%Y"}} by {{site.author}}.
 
