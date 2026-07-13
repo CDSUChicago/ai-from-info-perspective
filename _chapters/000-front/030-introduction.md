@@ -7,7 +7,7 @@ This course is built on a simple premise: perspectives todo
 
 Anyone can contribute to and influence what it becomes. A lot of engineers already feel this way and act as much, but it's important to note that this impact is not limited to technical fields. Anybody can impact the future of what AI looks like in their area. something on how this is invaluable e.g. perspectives from other fields. 
 
-## What This Course Is
+## What This Course Is 
 
 This is not a course about which AI tools to use or how to apply AI to your work, although you'll come away better equipped to address both. It's a course about understanding AI well enough to engage with it critically, communicate about it clearly, and contribute meaningfully to how it develops in your context. You'll come away with a clear idea of how to contribute your expertise in influencing what AI becomes and what usage looks like in your context, which of course sometimes takes the form of creating boundaries for AI use. 
 
@@ -23,11 +23,11 @@ When people talk about AI as a **product**, they're referring to specific applic
 
 Most conversations about AI conflate the two. When AI is framed only as a product, the questions become: *Should we allow it? Can we opt out? Is it cheating?* These are legitimate questions, but they're incomplete. Thinking of AI as a technology opens up a second set of questions: *What does responsible use look like in this context? What should never be automated here? What would we need to see before we'd trust it?* And most importantly: *What do we want it to become?*
 
-## Why Information Professionals
+## Why Information 
 
 Many of AI's most pressing challenges are, at their core, information problems.
 
-Bias in AI systems is a data problem — a question of what information was collected, from whom, and what was left out. Hallucinations are a retrieval problem — a system generating plausible-sounding output without grounding it in verified sources. Questions of privacy and consent are questions about who owns information and who gets to decide how it's used. The explosion of AI-generated content is an information overload problem of unprecedented scale.
+Bias in AI systems can be framed as a data problem, or more specifically a question of what information was collected, from whom, and what was left out. Hallucinations are a retrieval problem — a system generating plausible-sounding output without grounding it in verified sources. Questions of privacy and consent are questions about who owns information and who gets to decide how it's used. The explosion of AI-generated content is an information overload problem of unprecedented scale.
 
 Information science has been working on versions of these problems for decades. Information retrieval, metadata standards, source evaluation, authority control — these aren't peripheral to AI, they're foundational to getting it right. The tools and frameworks you already work with are more relevant than most AI conversations acknowledge.
 
