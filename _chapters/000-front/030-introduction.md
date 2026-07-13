@@ -27,7 +27,7 @@ Most conversations about AI conflate the two. When AI is framed only as a produc
 
 Many of AI's most pressing challenges are fundamentally information problems.
 
-Bias in AI systems can be framed as a data problem, or more specifically a question of what information was collected, from whom, and what was left out. Hallucinations are a retrieval problem — a system generating plausible-sounding output without grounding it in verified sources. Questions of privacy and consent are questions about who owns information and who gets to decide how it's used. The explosion of AI-generated content is an information overload problem of unprecedented scale.
+Bias in AI systems can be reframed as a question of what information was collected, from whom, and what was left out. Hallucinations are a retrieval problem — a system generating plausible-sounding output without grounding it in verified sources. Questions of privacy and consent are questions about who owns information and who gets to decide how it's used. The explosion of AI-generated content is an information overload problem of unprecedented scale.
 
 Information science has been working on versions of these problems for decades. Information retrieval, metadata standards, source evaluation, authority control — these aren't peripheral to AI, they're foundational to getting it right. The tools and frameworks you already work with are more relevant than most AI conversations acknowledge.
 
