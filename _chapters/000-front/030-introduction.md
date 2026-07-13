@@ -1,12 +1,11 @@
 ---
 title: Introduction
 slug: introduction
-
 ---
 
 This course is built on a simple premise: perspectives 
 
-Anyone can contribute to and influence what it becomes. A lot of engineers already feel this way and act as much, but it's important to note that this impact is not limited to technical fields. Aanybody can impact the future of what AI looks like in their area. something on how this is invaluable e.g. perspectives from other fields. 
+Anyone can contribute to and influence what it becomes. A lot of engineers already feel this way and act as much, but it's important to note that this impact is not limited to technical fields. Anybody can impact the future of what AI looks like in their area. something on how this is invaluable e.g. perspectives from other fields. 
 
 ## What This Course Is
 
