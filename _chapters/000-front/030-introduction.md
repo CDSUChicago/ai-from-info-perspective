@@ -25,7 +25,7 @@ Most conversations about AI conflate the two. When AI is framed only as a produc
 
 ## Why Information 
 
-Many of AI's most pressing challenges are, at their core, information problems.
+Many of AI's most pressing challenges are fundamentally information problems.
 
 Bias in AI systems can be framed as a data problem, or more specifically a question of what information was collected, from whom, and what was left out. Hallucinations are a retrieval problem — a system generating plausible-sounding output without grounding it in verified sources. Questions of privacy and consent are questions about who owns information and who gets to decide how it's used. The explosion of AI-generated content is an information overload problem of unprecedented scale.
 
