@@ -3,13 +3,13 @@ title: Introduction
 slug: introduction
 ---
 
-This course is built on a simple premise: perspectives 
+This course is built on a simple premise: perspectives todo 
 
 Anyone can contribute to and influence what it becomes. A lot of engineers already feel this way and act as much, but it's important to note that this impact is not limited to technical fields. Anybody can impact the future of what AI looks like in their area. something on how this is invaluable e.g. perspectives from other fields. 
 
 ## What This Course Is
 
-This is not a course about which AI tools to use or how to apply AI to your work, although you'll come away better equipped to address both. It's a course about understanding AI well enough to engage with it critically, communicate about it clearly, and contribute meaningfully to how it develops in your context. With any luck, you'll come away with a clear idea of how to contribute your expertise in writing what AI becomes and what usage looks like in your context (customary disclaimer - sometimes it looks like a boundary for not using AI).
+This is not a course about which AI tools to use or how to apply AI to your work, although you'll come away better equipped to address both. It's a course about understanding AI well enough to engage with it critically, communicate about it clearly, and contribute meaningfully to how it develops in your context. You'll come away with a clear idea of how to contribute your expertise in influencing what AI becomes and what usage looks like in your context, which of course sometimes takes the form of creating boundaries for AI use. 
 
 The field is still being written. This goal of this course is to give people the prerequisite information necessary to write it. You don't need to become an AI engineer. You need to bring your expertise to the table.
 
